@@ -5,21 +5,21 @@ Some examples:
 #### Step size variation in decaying exponential signals
 
 <div align="center">
-    <img width="1000" alt="drawdb logo" src="./images/decaying exponentials.jpg">
+    <img width="1000" src="./images/decaying exponential.jpg">
 </div>
 
 
 #### Discrete signals
 
 <div align="center">
-    <img width="600" alt="drawdb logo" src="./images/discrete signals.jpg">
+    <img width="600" src="./images/discrete signal.jpg">
 </div>
 
 
 #### Evaluating convolutions in MATLAB
 
 <div align="center">
-    <img width="900" alt="drawdb logo" src="./images/convolution in matlab.jpg">
+    <img width="900" src="./images/convolution in matlab.jpg">
 </div>
 
 
