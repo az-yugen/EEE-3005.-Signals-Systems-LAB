@@ -12,14 +12,14 @@ Some examples:
 #### Discrete signals
 
 <div align="center">
-    <img width="600" src="./images/discrete signal.jpg">
+    <img width="900" src="./images/discrete signal.jpg">
 </div>
 
 
 #### Evaluating convolutions in MATLAB
 
 <div align="center">
-    <img width="900" src="./images/convolution in matlab.jpg">
+    <img width="600" src="./images/convolution in matlab.jpg">
 </div>
 
 
