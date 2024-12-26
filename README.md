@@ -2,7 +2,7 @@
 
 Some examples:
 
-#### Step size variation in decaying exponential signals
+#### Decaying exponential signals
 
 <div align="center">
     <img width="1000" src="./images/decaying exponential.jpg">
